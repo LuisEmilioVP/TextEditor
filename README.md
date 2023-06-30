@@ -1,0 +1,1 @@
+# SNEditor_Texto
